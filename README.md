@@ -4,19 +4,19 @@ _**It does not matter how slowly you go so long as you do not stop**_
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind-govindhasamy" alt="ARAVIND GOVINDHASAMY" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongsinhho" alt="dongsinhho" />
 </p>
 
 <p align="center">
-  <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aravind-govindhasamy&theme=react&line_height=40&hide=css" /></a>
+  <a href=""><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dongsinhho&theme=react&line_height=40&hide=css" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aravind-govindhasamy&theme=react&line_height=40&hide=css" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dongsinhho&theme=react&line_height=40&hide=css" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/aravind-govindhasamy/aravind-govindhasamy.github.io/blob/main/img/github-contribution.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/dongsinhho/dongsinhho.github.io/blob/main/img/github-contribution.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
