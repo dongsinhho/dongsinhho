@@ -15,10 +15,6 @@ _**It does not matter how slowly you go so long as you do not stop**_
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dongsinhho&theme=react&line_height=40&hide=css" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/dongsinhho/dongsinhho.github.io/blob/main/img/github-contribution.svg" alt="GitHub Contribution Snake" />
-</p>
-
 ---
 
 <p align="center">
