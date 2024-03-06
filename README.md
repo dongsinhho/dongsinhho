@@ -2,7 +2,7 @@
 
 _**It does not matter how slowly you go so long as you do not stop**_
 
-
+<!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongsinhho" alt="dongsinhho" />
 </p>
@@ -20,6 +20,7 @@ _**It does not matter how slowly you go so long as you do not stop**_
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
+--->
 
 ---
 <!---
