@@ -1,9 +1,7 @@
 
 
 
-<br>
-  <image src="https://readme-typing-svg.herokuapp.com/demo/?color=000000&lines=It+does+not+matter+how+slowly+you+go+so+long+as+you+do+not+stop">
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=It+does+not+matter+how+slowly+you+go+so+long+as+you+do+not+stop)](https://git.io/typing-svg)
 <!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongsinhho" alt="dongsinhho" />
