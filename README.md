@@ -1,7 +1,9 @@
 
 
-_**It does not matter how slowly you go so long as you do not stop**_
 
+<br>
+  <image src="https://readme-typing-svg.herokuapp.com/demo/?color=000000&lines=It+does+not+matter+how+slowly+you+go+so+long+as+you+do+not+stop">
+<br>
 <!---
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dongsinhho" alt="dongsinhho" />
